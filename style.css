@@ -1,0 +1,19 @@
+.display{
+    font-weight: 300;
+}
+
+.col-lg-4{
+    background-color: #5bc0de;
+    text-align: center;
+    box-shadow: 0px 5px 10px rgba(0,0,0,0.3);
+    
+}
+.list-item{
+    color: black;
+    text-align: left;
+    margin-bottom: 10px;
+}
+.list-item img{
+    margin-right: 10px;
+    height: 20px;
+}
